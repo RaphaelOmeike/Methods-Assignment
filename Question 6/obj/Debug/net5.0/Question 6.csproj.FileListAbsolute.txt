@@ -1,0 +1,16 @@
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\obj\Debug\net5.0\Question 6.csprojAssemblyReference.cache
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\obj\Debug\net5.0\Question 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\obj\Debug\net5.0\Question 6.AssemblyInfoInputs.cache
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\obj\Debug\net5.0\Question 6.AssemblyInfo.cs
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\obj\Debug\net5.0\Question 6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\bin\Debug\net5.0\Question 6.exe
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\bin\Debug\net5.0\Question 6.deps.json
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\bin\Debug\net5.0\Question 6.runtimeconfig.json
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\bin\Debug\net5.0\Question 6.runtimeconfig.dev.json
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\bin\Debug\net5.0\Question 6.dll
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\bin\Debug\net5.0\ref\Question 6.dll
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\bin\Debug\net5.0\Question 6.pdb
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\obj\Debug\net5.0\Question 6.dll
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\obj\Debug\net5.0\ref\Question 6.dll
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\obj\Debug\net5.0\Question 6.pdb
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 6\obj\Debug\net5.0\Question 6.genruntimeconfig.cache

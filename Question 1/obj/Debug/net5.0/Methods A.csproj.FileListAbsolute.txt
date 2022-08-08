@@ -1,0 +1,32 @@
+C:\Users\USER\Contacts\Desktop\Methods A\obj\Debug\net5.0\Methods A.csprojAssemblyReference.cache
+C:\Users\USER\Contacts\Desktop\Methods A\obj\Debug\net5.0\Methods A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Contacts\Desktop\Methods A\obj\Debug\net5.0\Methods A.AssemblyInfoInputs.cache
+C:\Users\USER\Contacts\Desktop\Methods A\obj\Debug\net5.0\Methods A.AssemblyInfo.cs
+C:\Users\USER\Contacts\Desktop\Methods A\obj\Debug\net5.0\Methods A.csproj.CoreCompileInputs.cache
+C:\Users\USER\Contacts\Desktop\Methods A\bin\Debug\net5.0\Methods A.exe
+C:\Users\USER\Contacts\Desktop\Methods A\bin\Debug\net5.0\Methods A.deps.json
+C:\Users\USER\Contacts\Desktop\Methods A\bin\Debug\net5.0\Methods A.runtimeconfig.json
+C:\Users\USER\Contacts\Desktop\Methods A\bin\Debug\net5.0\Methods A.runtimeconfig.dev.json
+C:\Users\USER\Contacts\Desktop\Methods A\bin\Debug\net5.0\Methods A.dll
+C:\Users\USER\Contacts\Desktop\Methods A\bin\Debug\net5.0\ref\Methods A.dll
+C:\Users\USER\Contacts\Desktop\Methods A\bin\Debug\net5.0\Methods A.pdb
+C:\Users\USER\Contacts\Desktop\Methods A\obj\Debug\net5.0\Methods A.dll
+C:\Users\USER\Contacts\Desktop\Methods A\obj\Debug\net5.0\ref\Methods A.dll
+C:\Users\USER\Contacts\Desktop\Methods A\obj\Debug\net5.0\Methods A.pdb
+C:\Users\USER\Contacts\Desktop\Methods A\obj\Debug\net5.0\Methods A.genruntimeconfig.cache
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\bin\Debug\net5.0\Methods A.exe
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\bin\Debug\net5.0\Methods A.deps.json
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\bin\Debug\net5.0\Methods A.runtimeconfig.json
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\bin\Debug\net5.0\Methods A.runtimeconfig.dev.json
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\bin\Debug\net5.0\Methods A.dll
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\bin\Debug\net5.0\ref\Methods A.dll
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\bin\Debug\net5.0\Methods A.pdb
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\obj\Debug\net5.0\Methods A.csprojAssemblyReference.cache
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\obj\Debug\net5.0\Methods A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\obj\Debug\net5.0\Methods A.AssemblyInfoInputs.cache
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\obj\Debug\net5.0\Methods A.AssemblyInfo.cs
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\obj\Debug\net5.0\Methods A.csproj.CoreCompileInputs.cache
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\obj\Debug\net5.0\Methods A.dll
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\obj\Debug\net5.0\ref\Methods A.dll
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\obj\Debug\net5.0\Methods A.pdb
+C:\Users\USER\Contacts\Desktop\Chapter 9 - Methods\Question 1\obj\Debug\net5.0\Methods A.genruntimeconfig.cache
