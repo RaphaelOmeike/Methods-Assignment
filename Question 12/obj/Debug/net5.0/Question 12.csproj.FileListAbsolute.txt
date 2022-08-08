@@ -1,0 +1,16 @@
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\bin\Debug\net5.0\Question 12.exe
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\bin\Debug\net5.0\Question 12.deps.json
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\bin\Debug\net5.0\Question 12.runtimeconfig.json
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\bin\Debug\net5.0\Question 12.runtimeconfig.dev.json
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\bin\Debug\net5.0\Question 12.dll
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\bin\Debug\net5.0\ref\Question 12.dll
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\bin\Debug\net5.0\Question 12.pdb
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\obj\Debug\net5.0\Question 12.csprojAssemblyReference.cache
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\obj\Debug\net5.0\Question 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\obj\Debug\net5.0\Question 12.AssemblyInfoInputs.cache
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\obj\Debug\net5.0\Question 12.AssemblyInfo.cs
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\obj\Debug\net5.0\Question 12.csproj.CoreCompileInputs.cache
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\obj\Debug\net5.0\Question 12.dll
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\obj\Debug\net5.0\ref\Question 12.dll
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\obj\Debug\net5.0\Question 12.pdb
+C:\Users\USER\Contacts\Desktop\Chapter 6 - Loops\Question 12\obj\Debug\net5.0\Question 12.genruntimeconfig.cache
