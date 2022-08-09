@@ -1,0 +1,16 @@
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\bin\Debug\net5.0\Question 3.exe
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\bin\Debug\net5.0\Question 3.deps.json
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\bin\Debug\net5.0\Question 3.runtimeconfig.json
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\bin\Debug\net5.0\Question 3.runtimeconfig.dev.json
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\bin\Debug\net5.0\Question 3.dll
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\bin\Debug\net5.0\ref\Question 3.dll
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\bin\Debug\net5.0\Question 3.pdb
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\obj\Debug\net5.0\Question 3.csprojAssemblyReference.cache
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\obj\Debug\net5.0\Question 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\obj\Debug\net5.0\Question 3.AssemblyInfoInputs.cache
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\obj\Debug\net5.0\Question 3.AssemblyInfo.cs
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\obj\Debug\net5.0\Question 3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\obj\Debug\net5.0\Question 3.dll
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\obj\Debug\net5.0\ref\Question 3.dll
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\obj\Debug\net5.0\Question 3.pdb
+C:\Users\USER\Contacts\Desktop\Chapter 7 - Methods\Question 3\obj\Debug\net5.0\Question 3.genruntimeconfig.cache
